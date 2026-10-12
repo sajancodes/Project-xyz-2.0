@@ -1,0 +1,37 @@
+{
+  "general": [
+    "What is the capital of Nepal?",
+    "Explain why the sky appears blue in simple terms.",
+    "What are the main differences between RAM and storage?",
+    "Summarize how photosynthesis works.",
+    "Why do we have seasons on Earth?"
+  ],
+  "coding": [
+    "Write a Python function that returns the factorial of a positive integer.",
+    "Explain the bug in this Python code: for i in range(5): print(i+1)",
+    "Write a Python function to check whether a string is a palindrome.",
+    "Show a simple HTTP GET request using Python requests.",
+    "Explain the difference between a list and a tuple in Python."
+  ],
+  "math": [
+    "Solve 2x + 7 = 19.",
+    "Factor x^2 - 5x + 6.",
+    "What is the derivative of x^3 + 2x?",
+    "If a triangle has sides 3, 4, and 5, what is its area?",
+    "Simplify (a^2 b^3)(a^4 b)."
+  ],
+  "reasoning": [
+    "Alice is older than Bob. Bob is older than Carol. Who is youngest?",
+    "A box has 3 red balls and 2 blue balls. Without replacement, what changes after drawing a red ball?",
+    "If all mammals are warm-blooded and whales are mammals, what follows?",
+    "A train leaves before another faster train on the same route. What information is needed to know when it catches up?",
+    "You have three switches and one bulb in another room. Describe a strategy to identify the correct switch with one visit."
+  ],
+  "knowledge": [
+    "Who wrote Romeo and Juliet?",
+    "What is the chemical symbol for gold?",
+    "Which planet is known for its prominent ring system?",
+    "What does DNA stand for?",
+    "What is the largest ocean on Earth?"
+  ]
+}
