@@ -1,3 +1,6 @@
 .benchmarks/
 .env
 gemma-4-E4B/
+artifacts/
+__pycache__/
+*.pyc
